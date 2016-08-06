@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+The repository initialization creates a hidden folder .git with all the tracking files. It is required to save past information of the repository.
