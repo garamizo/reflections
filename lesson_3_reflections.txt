@@ -1,0 +1,1 @@
+A computer without git installed can still make commits by accessing and editing on github website.
